@@ -4,6 +4,9 @@ import android.graphics.PointF;
 import android.os.Parcel;
 import android.os.Parcelable;
 
+/**
+ *  @author leishicong
+ */
 public class Box implements Parcelable {
     private PointF mOrigin;
     private PointF mCurrent;
